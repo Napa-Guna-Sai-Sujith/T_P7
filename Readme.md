@@ -47,7 +47,7 @@ hospital-api/
 ## 🛠️ Installation & Setup
 
 ### 1️⃣ Clone the repository
-git clone https://github.com/your-username/hospital-api.git
+git clone [https://github.com/your-username/hospital-api.git](https://github.com/Napa-Guna-Sai-Sujith/T_P7)
 cd hospital-api
 
 ---
